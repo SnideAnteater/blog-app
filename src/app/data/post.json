@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Web Development",
+      "author": "Jane Doe",
+      "date": "2024-07-18",
+      "content": "Web development has come a long way from static HTML pages to dynamic, interactive applications. With advancements in frameworks like React, Angular, and Vue.js, developers can create complex user interfaces with ease. The future holds even more promise with emerging technologies like WebAssembly and progressive web apps (PWAs) paving the way for faster, more efficient web experiences.",
+      "tags": ["web development", "technology", "future"],
+      "image": "https://picsum.photos/id/1/5000/3333"
+    },
+    {
+      "id": 2,
+      "title": "Understanding Artificial Intelligence",
+      "author": "John Smith",
+      "date": "2024-07-15",
+      "content": "Artificial intelligence (AI) is a branch of computer science that aims to create machines capable of intelligent behavior. It involves machine learning, where algorithms learn from data, and deep learning, which uses neural networks to model complex patterns. AI is transforming industries from healthcare to finance by enabling smarter decision-making and automation.",
+      "tags": ["AI", "machine learning", "technology"],
+      "image": "https://picsum.photos/id/13/2500/1667"
+    },
+    {
+      "id": 3,
+      "title": "A Guide to Healthy Eating",
+      "author": "Emily White",
+      "date": "2024-07-12",
+      "content": "Eating a balanced diet is crucial for maintaining good health. This means consuming a variety of foods in the right proportions. Focus on incorporating fruits, vegetables, whole grains, lean proteins, and healthy fats into your meals. Avoid processed foods and sugary drinks. Remember, hydration is key, so drink plenty of water throughout the day.",
+      "tags": ["health", "nutrition", "wellness"],
+      "image": "https://picsum.photos/id/20/3670/2462"
+    }
+  ]
+}
